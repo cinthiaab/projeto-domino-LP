@@ -1,0 +1,507 @@
+# depslib dependency file v1.0
+1662993335 source:c:\users\ra00319543\downloads\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1662991673 c:\users\ra00319543\downloads\struct.h
+
+1662991678 c:\users\ra00319543\downloads\assinatura.h
+
+1662991667 source:c:\users\ra00319543\downloads\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1662991670 source:c:\users\ra00319543\downloads\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1662992811 source:c:\users\ra00319543\downloads\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663168131 source:c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663164632 c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\struct.h
+
+1663168120 c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\assinatura.h
+
+1663167518 source:c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663164632 source:c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663165259 source:c:\users\ra00319543\documents\dominobot\dominofinal\dominofinal\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663167520 source:c:\users\igorm\downloads\dominofinal\dominofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663164634 c:\users\igorm\downloads\dominofinal\dominofinal\struct.h
+
+1663264683 c:\users\igorm\downloads\dominofinal\dominofinal\assinatura.h
+
+1663164634 source:c:\users\igorm\downloads\dominofinal\dominofinal\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663165260 source:c:\users\igorm\downloads\dominofinal\dominofinal\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663267429 source:c:\users\igorm\downloads\dominofinal\dominofinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663283555 source:c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663282834 c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\struct.h
+
+1663282834 c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\assinatura.h
+
+1663282834 source:c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663282834 source:c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663282834 source:c:\users\guilh\downloads\dominofinal+computador\dominofinal\dominofinal\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663368529 source:c:\users\cinth\downloads\dominofinal + computador\dominofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663548127 c:\users\cinth\downloads\dominofinal + computador\dominofinal\struct.h
+
+1663555967 c:\users\cinth\downloads\dominofinal + computador\dominofinal\assinatura.h
+
+1663555928 source:c:\users\cinth\downloads\dominofinal + computador\dominofinal\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663555661 source:c:\users\cinth\downloads\dominofinal + computador\dominofinal\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663555722 source:c:\users\cinth\downloads\dominofinal + computador\dominofinal\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663596654 source:c:\users\ra00325161\downloads\dominobot1\dominobot1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663597473 c:\users\ra00325161\downloads\dominobot1\dominobot1\struct.h
+
+1663596654 c:\users\ra00325161\downloads\dominobot1\dominobot1\assinatura.h
+
+1663596654 source:c:\users\ra00325161\downloads\dominobot1\dominobot1\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663599751 source:c:\users\ra00325161\downloads\dominobot1\dominobot1\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663600960 source:c:\users\ra00325161\downloads\dominobot1\dominobot1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663728135 source:c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663727076 c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\struct.h
+
+1663618119 c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\assinatura.h
+
+1663614648 source:c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663614648 source:c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663728135 source:c:\users\cinth\downloads\dominobot1 (2)\dominobot1\dominobot1\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663770012 source:c:\users\ra00325161\downloads\dominobotfinal\dominobot1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663769766 c:\users\ra00325161\downloads\dominobotfinal\dominobot1\struct.h
+
+1663769766 c:\users\ra00325161\downloads\dominobotfinal\dominobot1\assinatura.h
+
+1663769766 source:c:\users\ra00325161\downloads\dominobotfinal\dominobot1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663769766 source:c:\users\ra00325161\downloads\dominobotfinal\dominobot1\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663769766 source:c:\users\ra00325161\downloads\dominobotfinal\dominobot1\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663896710 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663896734 c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\struct.h
+
+1663899462 c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\assinatura.h
+
+1663903130 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663904701 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663904701 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\dominobot1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663948365 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663896734 c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\struct.h
+
+1663944024 c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\assinatura.h
+
+1663896710 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663903130 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1663904751 source:c:\users\cinth\downloads\dominobotfinal (2)\dominobotfinal\projetodominoconcluido\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1664202498 source:c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1664201764 c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\struct.h
+
+1664201764 c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\assinatura.h
+
+1664201764 source:c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1664201764 source:c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1664202143 source:c:\users\ra00319543\downloads\projetodominoconcluido\projetodominoconcluido\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"struct.h"
+	"assinatura.h"
+
+1664204546 source:c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664204273 c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\struct.h
+
+1664204272 c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\assinatura.h
+
+1664204546 source:c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664206064 source:c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664204546 c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\model.h
+
+1664206018 source:c:\users\ra00325161\downloads\projetodominoconcluido (1)\projetodominoconcluido\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664374282 source:c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664374282 c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\model.h
+
+1664375999 c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\assinatura.h
+
+1664374282 source:c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664376192 source:c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664374283 source:c:\users\ra00319543\downloads\projetodominomuitoconcluido\projetodominoconcluido\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664376540 source:c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664376540 c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\model.h
+
+1664377683 c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\assinatura.h
+
+1664376540 source:c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\model.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664378163 source:c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\view.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
+1664378432 source:c:\users\ra00325161\downloads\projetodominomuitoconcluido (2)\projetodominomuitoconcluido\projetodominoconcluido\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"model.h"
+	"assinatura.h"
+
