@@ -38,6 +38,36 @@ Lucas Cassolino D' Azevedo;<br>
 </ul>
 
 -----
+### Apresentação das telas (suas opções, comentários, etc).
+1 -  Menu inicial<br>
+<img src="./imagens-output/tela1.png"><br>
+2 - Seleção de jogadores<br>
+<img src="./imagens-output/tela2.png"><br>
+3 - Início do jogo contra o computador<br>
+<img src="./imagens-output/tela3.png"><br>
+4 -  Início do jogo contra outro jogador
+ <img src="./imagens-output/tela4.png"><br>
+5 -  Após escolher a opção jogar, o jogador seleciona o lado da mesa para jogar a peça<br>
+<img src="./imagens-output/tela5.png"><br>
+6 - Opção para o jogador comprar a peça<br>
+<img src="./imagens-output/tela6.png"><br>
+7 - Opção do menu para o jogador passar sua vez<br>
+<img src="./imagens-output/tela7.png"><br>
+8 - Opção para o jogador salvar o jogo<br>
+<img src="./imagens-output/tela8.png"><br>
+9 -  Possibilita ao jogador abandonar a partida<br>
+<img src="./imagens-output/tela9.png"><br>
+10 - Opção para o jogador recuperar o jogo salvo previamente<br>
+<img src="./imagens-output/tela10.png"><br>
+11 -  Possibilita ao jogador abandonar a partida<br>
+<img src="./imagens-output/tela11.png"><br>
+
+3. Estruturas de dados usadas (devem estar no “model”)<br>
+***model.h***
+
+<img src="./imagens-output/model.png">
+
+-----
 
 ### Organização do código em termos de módulos, funções e procedimentos.
 #### Assinaturas View
