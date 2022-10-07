@@ -38,6 +38,7 @@ Lucas Cassolino D' Azevedo;<br>
 </ul>
 
 -----
+
 ### Apresentação das telas (suas opções, comentários, etc).
 1 -  Menu inicial<br>
 <img src="./imagens-output/tela1.png"><br>
@@ -62,7 +63,7 @@ Lucas Cassolino D' Azevedo;<br>
 11 -  Possibilita ao jogador abandonar a partida<br>
 <img src="./imagens-output/tela11.png"><br>
 
-3. Estruturas de dados usadas (devem estar no “model”)<br>
+## Estruturas de dados usadas (devem estar no “model”)<br>
 ***model.h***
 
 <img src="./imagens-output/model.png">
