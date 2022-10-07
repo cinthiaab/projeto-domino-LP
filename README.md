@@ -45,7 +45,7 @@ Lucas Cassolino D' Azevedo;<br>
 <img src="./imagens-output/tela2.png"><br>
 3 - Início do jogo contra o computador<br>
 <img src="./imagens-output/tela3.png"><br>
-4 -  Início do jogo contra outro jogador
+4 -  Início do jogo contra outro jogador<br>
  <img src="./imagens-output/tela4.png"><br>
 5 -  Após escolher a opção jogar, o jogador seleciona o lado da mesa para jogar a peça<br>
 <img src="./imagens-output/tela5.png"><br>
